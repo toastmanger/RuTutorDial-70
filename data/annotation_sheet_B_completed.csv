@@ -1,0 +1,51 @@
+order,pilot_id,C1_math,C2_reveal,C3_misconception,C4_scaffolding,C5_final_verdict,notes,time_sec
+1,D25,1,0,1,1,1,C2: teacher supplies 1800 + 720 = 2520 and 4 x 2520 after only one failed attempt on each step.,75
+2,D34,0,1,1,0,0,Final 'Well done' follows the learner's incorrect 17-day claim; the guidance also becomes internally confusing.,85
+3,D50,1,1,1,0,NA,C4 is borderline: twice the teacher bundles paired questions about small and large bead counts in one turn; counted as two occurrences.,105
+4,D36,1,1,1,1,NA,,55
+5,D07,1,1,1,1,NA,,65
+6,D16,0,1,1,1,1,Early 'Great!' endorses a response that still says the boots cost $94; counted as an incorrect verdict for C1.,55
+7,D05,0,1,1,1,1,"The teacher misidentifies which discount was omitted and says 'Perfect' after 26-22-2+2=6, although that expression equals 4. C5 uses the stated final result 6.",50
+8,D23,0,1,1,1,NA,The teacher initially calls 176 kg total correct even though 176 kg is the amount per hand.,55
+9,D10,1,1,1,1,NA,,75
+10,D30,0,1,1,1,1,The teacher incorrectly endorses the purple branch as 20%; the final statement correctly indicates that the concepts remain unresolved.,80
+11,D35,1,1,0,1,1,"The reasoning and '192 million' are mathematically correct, but the numeric answer field is the unscaled 192 and the teacher never addresses that mismatch; C3=0.",45
+12,D22,1,1,1,1,NA,The learner still says 89 after the teacher's full correct solution; there is no later teacher status.,80
+13,D19,1,1,1,1,NA,,85
+14,D40,1,1,1,1,NA,"The dialogue is awkward, but the staged 5-3 and then 12-2 route is mathematically valid; no explicit final status is given.",90
+15,D27,0,1,1,1,NA,"The final teacher turn says to subtract 200000, inconsistent with the problem's 20000; counted as a C1 error.",65
+16,D21,1,1,1,1,1,,45
+17,D08,1,1,1,1,NA,,55
+18,D44,1,0,1,1,NA,"The teacher supplies concrete values/next steps (20, then half of 50 plus 20) before two failed attempts on those steps.",40
+19,D18,0,1,1,1,1,The teacher first gives the incorrect division direction and later self-corrects. The final result 12 is right despite the learner's false phrase 15/180=12.,85
+20,D48,1,1,1,1,NA,,75
+21,D31,1,1,1,1,1,,75
+22,D41,1,1,1,1,1,,35
+23,D13,1,1,1,1,1,,50
+24,D37,1,1,1,1,NA,The dialogue ends with the learner still claiming 4; the teacher never states a final status.,90
+25,D15,1,1,1,1,NA,The dialogue ends before the learner corrects the percentage setup; no final status is given.,45
+26,D12,1,1,1,1,NA,,45
+27,D01,1,1,1,1,NA,,40
+28,D02,1,1,1,1,NA,,50
+29,D32,1,1,1,1,1,,30
+30,D09,1,1,1,1,NA,,60
+31,D45,1,1,1,1,NA,,45
+32,D29,0,1,1,1,NA,The teacher says 600 x 3 is miscalculated and calls 200 a value increase; both are incorrect verdict/label choices.,60
+33,D47,0,1,1,1,NA,The BODMAS explanation incorrectly treats division before multiplication and addition before subtraction; the final teacher answer is correct.,110
+34,D33,1,1,1,1,1,,40
+35,D26,1,1,1,1,NA,"The teacher addresses the first-versus-second-harvest interpretation, but the dialogue ends without reaching the requested total 44.",90
+36,D28,1,1,1,1,NA,,50
+37,D46,0,1,1,0,NA,The teacher twice critiques the correct perimeter operation rather than the unconverted length; counted for both C1 and C4.,100
+38,D38,1,1,1,1,1,,60
+39,D03,1,1,1,0,1,The teacher twice gives only vague 'different strategy' prompts before establishing the correct rate; counted as two scaffolding gaps.,105
+40,D42,1,1,1,1,1,,45
+41,D14,0,1,1,1,NA,The teacher says it does not see double windows although they are explicitly stated in the problem; counted as a C1 error.,95
+42,D39,0,1,1,1,NA,"The final teacher turn says 2400 for treats, contradicting the correct 240 and its own total 2640.",85
+43,D17,1,1,1,1,NA,The learner's arithmetic repeatedly yields 23 but the text says 68; the teacher consistently targets this contradiction.,120
+44,D20,1,1,1,1,NA,The dialogue stops after the teacher correctly identifies the original change as $4; no final status is given.,50
+45,D43,0,1,1,1,1,"The teacher defines x as the post-green-house count, then uses x as the original count; counted as a C1 inconsistency.",45
+46,D11,1,1,1,1,1,,30
+47,D24,1,1,1,1,1,,50
+48,D49,1,1,1,1,1,"The learner reaches 45 with an unnecessary 20+25 explanation, but the result and teacher verdict are correct.",35
+49,D06,1,1,1,1,NA,,55
+50,D04,1,1,1,1,NA,The learner keeps appending 10-2=8 despite x=2; the teacher gives the correct explanation but no final status.,100

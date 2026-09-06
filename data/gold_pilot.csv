@@ -1,0 +1,51 @@
+pilot_id,stratum,C1_math,C1_math_source,C2_reveal,C2_reveal_source,C3_misconception,C3_misconception_source,C4_scaffolding,C4_scaffolding_source,C5_final_verdict,C5_final_verdict_source
+D01,"Yes, but I had to reveal the answer",1,agreed,0,reconciled,0,reconciled,1,agreed,NA,agreed
+D02,Yes,1,agreed,1,agreed,1,agreed,1,agreed,NA,agreed
+D03,"Yes, but I had to reveal the answer",1,agreed,0,recheck_v11,1,agreed,0,agreed,1,agreed
+D04,No,1,agreed,1,agreed,1,agreed,1,agreed,NA,agreed
+D05,Yes,0,agreed,1,agreed,1,agreed,1,agreed,1,agreed
+D06,"Yes, but I had to reveal the answer",1,agreed,0,recheck_v11,1,agreed,1,agreed,NA,agreed
+D07,No,1,agreed,1,agreed,1,agreed,1,agreed,NA,agreed
+D08,Yes,1,agreed,1,agreed,1,agreed,1,agreed,NA,agreed
+D09,Yes,1,agreed,1,agreed,1,agreed,1,agreed,NA,agreed
+D10,"Yes, but I had to reveal the answer",1,agreed,1,agreed,1,agreed,1,agreed,NA,agreed
+D11,Yes,1,agreed,1,agreed,1,agreed,1,agreed,1,agreed
+D12,"Yes, but I had to reveal the answer",1,agreed,0,recheck_v11,1,agreed,1,agreed,NA,agreed
+D13,Yes,1,agreed,1,agreed,1,agreed,1,agreed,1,agreed
+D14,No,0,agreed,0,reconciled,1,agreed,1,agreed,NA,agreed
+D15,Yes,1,agreed,1,agreed,1,agreed,1,agreed,NA,agreed
+D16,Yes,0,agreed,1,agreed,1,agreed,1,agreed,1,agreed
+D17,No,1,agreed,1,agreed,0,reconciled,1,agreed,NA,agreed
+D18,Yes,0,agreed,1,agreed,1,agreed,1,agreed,1,agreed
+D19,"Yes, but I had to reveal the answer",1,agreed,1,agreed,1,agreed,1,agreed,NA,agreed
+D20,No,1,agreed,1,agreed,1,agreed,1,agreed,NA,agreed
+D21,"Yes, but I had to reveal the answer",1,agreed,0,recheck_v11,0,reconciled,1,agreed,1,agreed
+D22,No,1,agreed,1,agreed,1,agreed,1,agreed,NA,agreed
+D23,Yes,0,agreed,1,agreed,1,agreed,1,agreed,NA,agreed
+D24,"Yes, but I had to reveal the answer",1,agreed,1,agreed,1,agreed,1,agreed,1,agreed
+D25,"Yes, but I had to reveal the answer",1,agreed,0,recheck_v11_resolved,1,agreed,1,agreed,1,agreed
+D26,No,1,agreed,1,agreed,1,agreed,1,agreed,NA,agreed
+D27,"Yes, but I had to reveal the answer",0,agreed,0,recheck_v11,1,agreed,1,agreed,NA,agreed
+D28,Yes,1,agreed,1,agreed,1,agreed,1,agreed,NA,agreed
+D29,"Yes, but I had to reveal the answer",0,agreed,1,agreed,1,agreed,1,agreed,NA,agreed
+D30,No,0,agreed,1,agreed,1,agreed,1,agreed,1,agreed
+D31,Yes,1,agreed,1,agreed,1,agreed,1,agreed,1,agreed
+D32,Yes,1,agreed,1,agreed,1,agreed,1,agreed,1,agreed
+D33,Yes,1,agreed,1,agreed,1,agreed,1,agreed,1,agreed
+D34,No,0,agreed,1,agreed,1,agreed,0,agreed,0,agreed
+D35,No,1,agreed,1,agreed,0,agreed,1,agreed,1,agreed
+D36,No,1,agreed,1,agreed,0,reconciled,1,agreed,NA,agreed
+D37,No,1,agreed,1,agreed,1,agreed,1,agreed,NA,agreed
+D38,"Yes, but I had to reveal the answer",1,agreed,0,recheck_v11,1,agreed,1,agreed,1,agreed
+D39,No,0,agreed,1,agreed,1,agreed,1,agreed,NA,agreed
+D40,"Yes, but I had to reveal the answer",1,agreed,1,agreed,1,agreed,1,agreed,NA,agreed
+D41,Yes,1,agreed,1,agreed,1,agreed,1,agreed,1,agreed
+D42,Yes,1,agreed,1,agreed,0,reconciled,1,agreed,1,agreed
+D43,Yes,0,agreed,1,agreed,1,agreed,1,agreed,1,agreed
+D44,"Yes, but I had to reveal the answer",1,agreed,0,agreed,0,reconciled,0,reconciled,NA,agreed
+D45,Yes,1,agreed,1,agreed,1,agreed,1,agreed,NA,agreed
+D46,No,0,agreed,1,agreed,1,agreed,1,reconciled,NA,agreed
+D47,"Yes, but I had to reveal the answer",0,agreed,0,recheck_v11,1,agreed,1,agreed,NA,agreed
+D48,Yes,1,agreed,1,agreed,1,agreed,1,agreed,NA,agreed
+D49,Yes,1,agreed,1,agreed,1,agreed,1,agreed,1,agreed
+D50,No,1,agreed,1,agreed,1,agreed,0,agreed,NA,agreed
