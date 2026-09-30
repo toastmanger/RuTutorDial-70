@@ -1,0 +1,7 @@
+# Python 3.12 (tested with CPython 3.12.13)
+# statistics / table reproduction (make reproduce)
+numpy==2.5.3
+scipy==1.18.1
+# judge runs (make judges): any OpenAI-compatible endpoint
+openai==3.8.0
+httpx==0.28.1

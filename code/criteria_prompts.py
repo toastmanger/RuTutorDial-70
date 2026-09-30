@@ -1,6 +1,7 @@
 """Judge prompt template and criterion definitions.
 
-MUST mirror pilot/judge-prompts.md (v1.1, synced with rubric-v1.1.md).
+Mirrors rubric v1.1: English versions of the definitions in Appendix A of the paper
+(Russian original: data/rubric_v1.1_ru.md in the published artifact).
 When the rubric changes, update both files together.
 """
 

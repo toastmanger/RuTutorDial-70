@@ -1,0 +1,26 @@
+{
+  "title": "RuTutorDial-70: Russian tutoring dialogues with gold rubric labels and a pipeline for verifiable reliability evaluation of LLM judges",
+  "upload_type": "dataset",
+  "description": "Corpus of 70 Russian-language tutoring dialogues (35 clean, 35 with controlled defect injection) with reconciled gold labels of two independent annotators on a five-criterion pedagogical rubric; parallel English/Russian MathDial subset; raw logs of all 33 025 judge-call records (8 LLM judges, 3 repeats, including an interleaved control run); code that reproduces every table of the accompanying paper with one command. Data: CC BY-SA 4.0 (inherited from MathDial); code: MIT.",
+  "creators": [
+    {
+      "name": "Lazutkin, Daniil",
+      "affiliation": "Moscow Aviation Institute (National Research University)",
+      "orcid": "0009-0008-0375-4699"
+    },
+    {
+      "name": "Levinskaya, Maria",
+      "affiliation": "Moscow Aviation Institute (National Research University)",
+      "orcid": "0000-0002-8582-2083"
+    }
+  ],
+  "license": "cc-by-sa-4.0",
+  "keywords": [
+    "LLM-as-a-judge",
+    "meta-evaluation",
+    "reproducibility",
+    "tutoring dialogues",
+    "Russian"
+  ],
+  "language": "rus"
+}

@@ -1,0 +1,7 @@
+The corpora, gold labels and annotation sheets in data/ and the judge logs in logs/ are licensed under
+the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0):
+https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+The license is inherited from MathDial (Macina et al., 2023, https://github.com/eth-nlped/mathdial);
+problems in K3/K4 come from the Russian part of MGSM (Shi et al., 2022).
+The code in code/ is licensed separately under the MIT License (see ../LICENSE).

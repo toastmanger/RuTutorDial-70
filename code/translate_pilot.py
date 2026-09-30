@@ -1,11 +1,10 @@
 #!/usr/bin/env python3
-"""Translate pilot dialogues EN->RU via an OpenAI-compatible API.
+"""Translate pilot dialogues EN->RU via an OpenAI-compatible API (translator: kimi-k2.5).
 
-Usage: .venv/bin/python scripts/translate_pilot.py [--dialogs 5]
-Output: pilot/ru/ru_sample.csv — same columns as pilot_sample.csv, content in Russian,
-format markers (|EOM|, Teacher:, Student:) preserved for downstream rendering.
-Machine translation is the production pipeline (paper method: MT + human vetting);
-vetting notes live in pilot/ru/vetting.md.
+Usage: python code/translate_pilot.py [--dialogs 5]
+Output: pilot/ru/ru_sample.csv in the working-repository layout (published as data/ru_sample.csv);
+same columns as pilot_sample.csv, content in Russian, format markers (|EOM|, Teacher:, Student:) preserved.
+Every translated dialogue passes automatic invariant checks; spot checks were done by the first author.
 """
 from __future__ import annotations
 
