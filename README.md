@@ -2,7 +2,7 @@
 
 Russian-language tutoring dialogues with gold rubric labels, plus the complete code and raw logs for a verifiable reliability evaluation of LLM judges.
 
-Companion artifact for the paper «Верифицируемая оценка надёжности LLM-судей на русскоязычных образовательных диалогах» (*Verifiable Reliability Evaluation of LLM Judges on Russian-Language Educational Dialogues*), D. A. Lazutkin, M. A. Levinskaya, 2026 (manuscript in preparation).
+Companion artifact for the paper «Верифицируемая оценка надёжности LLM-судей на русскоязычных образовательных диалогах» (*Verifiable Reliability Evaluation of LLM Judges on Russian-Language Educational Dialogues*), D. V. Lazutkin, M. A. Levinskaya, 2026 (manuscript in preparation).
 
 ## Reproduce every table of the paper
 
