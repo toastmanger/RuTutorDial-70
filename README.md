@@ -1,5 +1,7 @@
 # RuTutorDial-70
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23138678.svg)](https://doi.org/10.5281/zenodo.23138678)
+
 Russian-language tutoring dialogues with gold rubric labels, plus the complete code and raw logs for a verifiable reliability evaluation of LLM judges.
 
 Companion artifact for the paper «Верифицируемая оценка надёжности LLM-судей на русскоязычных образовательных диалогах» (*Verifiable Reliability Evaluation of LLM Judges on Russian-Language Educational Dialogues*), D. V. Lazutkin, M. A. Levinskaya, 2026 (manuscript in preparation).
@@ -81,4 +83,4 @@ RuTutorDial-70 — открытый корпус русскоязычных ть
 
 ## Citation
 
-See `CITATION.cff`. The DOI of the archived Zenodo release is added here once the release is deposited.
+See `CITATION.cff`. Archived release v1.1 on Zenodo: [10.5281/zenodo.23138678](https://doi.org/10.5281/zenodo.23138678); all versions: [10.5281/zenodo.23138677](https://doi.org/10.5281/zenodo.23138677).

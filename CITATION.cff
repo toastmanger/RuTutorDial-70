@@ -16,6 +16,8 @@ license:
   - CC-BY-SA-4.0
   - MIT
 version: "1.1.0"
+doi: 10.5281/zenodo.23138678
+date-released: 2026-10-04
 keywords:
   - LLM-as-a-judge
   - meta-evaluation
